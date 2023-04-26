@@ -2,20 +2,20 @@
 <h3 align = center>Powerful Telegram bot to get everyone's attention by mentioning all members in the chat.
 <br>PingAll bot has some additional cool features and also it can work in channels.
     
-<br>💥 Easy    ⚡️ Fast    ✨ Self Deployable</h3>
+<br>👅ᴇᴀꜱʏ    ⚜️ꜰᴀꜱᴛ   💢ꜱᴇʟꜰ ᴅᴇᴘʟᴏʏᴀʙ le</h3>
 
 
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/teletips/PingAllBot-TeLeTiPs?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/teletips/PingAllBot-TeLeTiPs?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/teletips/PingAllBot-TeLeTiPs?style=for-the-badge" alt="Watchers"> 
+    <img src="https://img.shields.io/github/stars/bhausetup/ANSHXTAGALL?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/bhausetup/ANSHXTAGALL?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/bhausetup/ANSHXTAGALL?style=for-the-badge" alt="Watchers"> 
 <br>
-    <img src="https://img.shields.io/github/license/teletips/PingAllBot-TeLeTiPs?style=for-the-badge" alt="License">
-    <img src="https://img.shields.io/github/repo-size/teletips/PingAllBot-TeLeTiPs?style=for-the-badge" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/teletips/PingAllBot-TeLeTiPs?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/teletips/PingAllBot-TeLeTiPs?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/license/bhausetup/ANSHXTAGALL?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/repo-size/bhausetup/ANSHXTAGALL?style=for-the-badge" alt="Repository Size">
+    <img src="https://img.shields.io/github/contributors/bhausetup/ANSHXTAGALL?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/bhausetup/ANSHXTAGALL/PingAllBot?style=for-the-badge" alt="Issues">
 </p>  
 
 
@@ -64,7 +64,7 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/PingAllBot-TeLeTiPs)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bhausetup/ANSHXTAGALL)
     
 ### Okteto
 
@@ -72,7 +72,7 @@
     
 ## ⭐️ Credits
   
-- [TeLe TiPs](https://github.com/teletips)
+- [𝗔𝗻𝘀𝗵](https://github.com/bhausetup)
 - [Thakshaka](https://t.me/thakshakar)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 
@@ -84,12 +84,12 @@
 
 ```
 ## Credits
-- [Ping All Bot by TeLe TiPs] (https://github.com/teletips/PingAllBot-TeLeTiPs)
+- [Ping All Bot by TeLe TiPs] (https://github.com/bhausetup/ANSHXTAGALL)
 ```
 
 
 ## ⚖️ License
   
-Ping All is licensed under the [GNU Affero General Public License v3.0](https://github.com/teletips/PingAllBot-TeLeTiPs/blob/main/LICENSE)
+Ping All is licensed under the [GNU Affero General Public License v3.0](https://github.com/bhausetup/ANSHXTAGALL/blob/main/LICENSE)
 
 Copyright ©️ 2022 TeLe TiPs. All Rights Reserved
