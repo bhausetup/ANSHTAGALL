@@ -1,8 +1,8 @@
-#Copyright ©️ 2022 TeLe TiPs. All Rights Reserved
+#Copyright ©️ 2022 ansh. All Rights Reserved
 #You are free to use this code in any of your project, but you MUST include the following in your README.md (Copy & paste)
-# ##Credits - [Ping All Telegram bot by TeLe TiPs] (https://github.com/teletips/PingAllBot-teletips)
+# ##Credits - [Ping All Telegram bot by TeLe TiPs] (https://github.com/bhausetup/ANSHXTAGALL)
 
-# Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/teletips/PingAllBot-teletips/blob/main/LICENSE
+# Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/bhausetup/ANSHXTAGALL/blob/main/LICENSE
 
 from pyrogram import Client, filters
 from pyrogram.types import Message
@@ -257,7 +257,7 @@ Hey, let's have a quick look at my commands.
 - /bots: <i>Get the full bot list.</i>
 - /stop: <i>Stop an on going process.</i>
 
-If you have any questions on how to use me, feel free to ask in my [support group](https://t.me/teletipsofficialontopicchat). More on my [page](https://github.com/teletips/PingAllBot-TeLeTiPs).
+If you have any questions on how to use me, feel free to ask in my [support group](https://t.me/teletipsofficialontopicchat). More on my [page](https://github.com/bhausetup/ANSHXTAGALL).
 '''
   await teletips.send_message(message.chat.id, text, disable_web_page_preview=True)
 
